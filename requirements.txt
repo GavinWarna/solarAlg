@@ -1,0 +1,7 @@
+streamlit>=1.31
+pvlib>=0.10
+numpy
+pandas
+matplotlib
+scipy
+requests
